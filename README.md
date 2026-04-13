@@ -12,7 +12,7 @@ Founded in **2021**, Plancy Asia has rapidly evolved into a **growth-driven tech
 - E-commerce & Sales Platforms  
 - Digital Marketing & AI Automation  
 
-> “Transform how you operate with powerful, ready-made digital solutions—customized to fit your workflow.” :contentReference[oaicite:0]{index=0}
+> “Transform how you operate with powerful, ready-made digital solutions—customized to fit your workflow.”
 
 ---
 
@@ -47,25 +47,30 @@ Founded in **2021**, Plancy Asia has rapidly evolved into a **growth-driven tech
 ### 🌐 Frontend
 - Vue.js (Nuxt.js)
 - React (Next.js)
-- Tailwind CSS / Vuetify
+- Tailwind CSS / PrimeVue
 - Progressive Web Apps (PWA)
+- Unity Gamings
+- React Native Cross Platform
+- Swift for minmal iOS solutions
 
 ### ⚙️ Backend
-- Node.js (Express / Firebase Functions)
+- Node.js (Express / Nest / Firebase Functions / Edge Functions)
 - PHP (Laravel)
 - REST API & GraphQL
 - Microservices Architecture
+- GO (Fiber)
+- DotNet (Gaming Server)
 
 ### ☁️ Cloud & Infrastructure
-- Google Cloud Platform (GCP)
-- Firebase (Auth, Firestore, Functions)
-- AWS (S3 Storage, EC2 optional)
+- Firebase (Auth, Firestore, Functions) NoSQL
+- Supabase (Auth, PGSQL, Functions) SQL
+- AWS (Cloud Computing, RDS, EC2, GPU)
 - Docker + CI/CD pipelines
 
 ### 🧠 AI & Data
 - OpenAI / LLM APIs
-- Vector Databases (Pinecone)
-- RAG (Retrieval-Augmented Generation)
+- Vector Databases (Melvius, Pinecone)
+- AI Agents
 - Automation Workflows
 
 ### 🗄️ Database
@@ -108,9 +113,9 @@ Founded in **2021**, Plancy Asia has rapidly evolved into a **growth-driven tech
 - Headquarters: Yangon, Myanmar  
 - Region: ASEAN / South Asia  
 - Industry: Software Development  
-- Company Size: 2–10 employees :contentReference[oaicite:1]{index=1}  
+- Company Size: 10–55 employees 
 
-Plancy Asia collaborates with regional partners to deliver **localized, scalable digital solutions** for SMEs and enterprises. :contentReference[oaicite:2]{index=2}  
+Plancy Asia collaborates with regional partners to deliver **localized, scalable digital solutions** for SMEs and enterprises. 
 
 ---
 
@@ -134,7 +139,7 @@ To become a **leading AI-powered SaaS and ERP provider in Southeast Asia**, enab
 ## 📞 Contact
 
 - Website: https://plancyasia.com  
-- Email: info@plancyasia.com  
+- Email: services@plancyasia.com  
 - Location: Yangon, Myanmar  
 
 ---
